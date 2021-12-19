@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 public class UserFinderService {
 
     public PomosUser searchPomosUser(String uuid){
-        return new PomosUser();
+        return PomosUser.builder().build();
     }
 
 
