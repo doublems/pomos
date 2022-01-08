@@ -1,4 +1,5 @@
 ![Known Vulnerabilities](https://snyk.io/test/github//doublems/pomos/badge.svg)
+[![CodeFactor](https://www.codefactor.io/repository/github/doublems/pomos/badge)](https://www.codefactor.io/repository/github/doublems/pomos)
 
 # pomos
 
